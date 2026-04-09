@@ -1091,7 +1091,7 @@ a { text-decoration: none; color: inherit; }
   background: #1C1C2E;
   border-radius: 16px;
   padding: 8px;
-  height: 160px;
+  height: auto;
 }
 
 .app-screen-inner {
