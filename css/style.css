@@ -819,7 +819,6 @@ a { text-decoration: none; color: inherit; }
   align-items: flex-start;
   margin: 16px 0;
   padding: 16px 0;
-  border-bottom: 1px solid var(--border);
 }
 
 .device-section:last-child { border-bottom: none; }
