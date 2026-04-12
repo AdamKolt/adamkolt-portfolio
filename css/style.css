@@ -879,14 +879,14 @@ a { text-decoration: none; color: inherit; }
   line-height: 1.1;
   color: var(--text);
   margin-bottom: 16px;
-  max-width: 420px;
+  max-width: 461px;
 }
 
 .hero-sub {
-  font-size: 15px;
+  font-size: 16px;
   color: #555;
   line-height: 1.6;
-  max-width: 380px;
+  max-width: 417px;
   padding-bottom: 48px;
 }
 
